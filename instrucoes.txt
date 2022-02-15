@@ -1,4 +1,4 @@
-1 - Abra um terminal dentro da pasta onde está o arquivo de entrada e o trabalho.py
+1 - Abra um terminal dentro da pasta onde está o arquivo de entrada e o trabalho_final_tec.py
 
 2 - Rode: python3 trabalho_final_tec.py
 
